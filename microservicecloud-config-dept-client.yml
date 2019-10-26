@@ -1,4 +1,4 @@
-spring: 
+﻿spring: 
   profiles:
     active:
     - dev
@@ -17,7 +17,7 @@ spring:
     password: 123456
     dbcp2:
       min-idle: 5
-      initial-size: 5
+      initial-size: 5  
       max-total: 5
       max-wait-millis: 200 
 mybatis:
