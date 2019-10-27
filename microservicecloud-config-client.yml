@@ -29,7 +29,7 @@ eureka:
 server:
   port: 8001
 spring: 
-   profiles: test
+   profiles: add
    application: 
     name: microservicecloud-config-dept-client
    datasource:
